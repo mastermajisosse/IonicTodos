@@ -1,0 +1,5 @@
+html:
+ion-button : bach tweli like the mobile buttons , without it it will show the regular windows butt style
+*ngIf="..." : tat3tiha bool kayna f "ts" o tatl3ab ma bin true o false bchi function
+(click) = "...()" : onclick function tatkoun f "ts" tatle9
+*ngFor="let flan of frtlan" = loop d les obj inside
